@@ -1,0 +1,21 @@
+{
+  "name": "socket-study",
+  "version": "1.0.0",
+  "description": "socket study",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "socket.io": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "socket",
+    "io",
+    "express"
+  ],
+  "author": "fsxchen@gmail.com",
+  "license": "ISC"
+}
